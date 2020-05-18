@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  APP_NAME: argocd
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: argocm
